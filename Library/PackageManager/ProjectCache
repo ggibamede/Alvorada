@@ -1,19 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Packages/manifest.json
+    m_FilePath: C:/Users/Utilizador/Documents/GitHub/Alvorada/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637472767854993836
-    m_Hash: 3282181577
+      ticks: 637489122439700964
+    m_Hash: 2038763219
   m_LockFileStatus:
-    m_FilePath: C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Packages/packages-lock.json
+    m_FilePath: C:/Users/Utilizador/Documents/GitHub/Alvorada/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637472771537560585
+      ticks: 637490201513051527
     m_Hash: 3568771123
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.2
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -34,7 +34,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: 
+      type: tool
       description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera
         component which ensures your pixel art remains crisp and clear at different
         resolutions, and stable in motion.
@@ -199,7 +199,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.4.7
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.ads@3.4.7
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.ads@3.4.7
       assetPath: Packages/com.unity.ads
       name: com.unity.ads
       displayName: Advertisement
@@ -329,7 +329,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.3.5
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.analytics@3.3.5
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.analytics@3.3.5
       assetPath: Packages/com.unity.analytics
       name: com.unity.analytics
       displayName: Analytics Library
@@ -345,74 +345,8 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.3
-        - 0.0.4
-        - 0.0.5
-        - 0.0.7
-        - 0.0.8
-        - 0.0.9
-        - 0.0.10
-        - 0.0.11
-        - 0.0.12
-        - 0.0.13
-        - 0.0.14
-        - 0.0.15
-        - 0.0.16
-        - 0.0.17
-        - 0.0.19
-        - 2.0.5
-        - 2.0.11
-        - 2.0.13
-        - 2.0.14
-        - 2.0.15
-        - 2.0.16
-        - 3.0.5
-        - 3.0.9
-        - 3.1.1
-        - 3.2.0
-        - 3.2.2
-        - 3.2.3
-        - 3.3.0
-        - 3.3.2-preview
-        - 3.3.2
-        - 3.3.4
-        - 3.3.5
-        - 3.4.0
         - 3.5.3
         compatible:
-        - 0.0.3
-        - 0.0.4
-        - 0.0.5
-        - 0.0.7
-        - 0.0.8
-        - 0.0.9
-        - 0.0.10
-        - 0.0.11
-        - 0.0.12
-        - 0.0.13
-        - 0.0.14
-        - 0.0.15
-        - 0.0.16
-        - 0.0.17
-        - 0.0.19
-        - 2.0.5
-        - 2.0.11
-        - 2.0.13
-        - 2.0.14
-        - 2.0.15
-        - 2.0.16
-        - 3.0.5
-        - 3.0.9
-        - 3.1.1
-        - 3.2.0
-        - 3.2.2
-        - 3.2.3
-        - 3.3.0
-        - 3.3.2-preview
-        - 3.3.2
-        - 3.3.4
-        - 3.3.5
-        - 3.4.0
         - 3.5.3
         verified: 3.5.3
       dependencies:
@@ -440,7 +374,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637146252790000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -453,7 +387,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -470,45 +404,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.2.3-preview
-        - 1.2.4-preview
-        - 1.2.6
-        - 1.2.7
-        - 1.2.9
-        - 1.2.11
-        - 1.2.15
-        - 1.2.16
-        - 1.2.17-preview.3
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
         - 1.3.9
-        - 2.0.0-preview.6
-        - 2.0.0-preview.8
-        - 2.0.0-preview.15
-        - 2.0.0-preview.17
-        - 2.0.0-preview.20
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.1.0-preview.3
-        - 2.1.0-preview.5
-        - 2.1.0-preview.6
         compatible:
         - 1.3.9
-        - 2.0.0-preview.6
-        - 2.0.0-preview.8
-        - 2.0.0-preview.15
-        - 2.0.0-preview.17
-        - 2.0.0-preview.20
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.1.0-preview.3
-        - 2.1.0-preview.5
-        - 2.1.0-preview.6
         verified: 1.3.9
       dependencies: []
       resolvedDependencies: []
@@ -535,7 +433,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314349270000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -548,7 +446,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -565,49 +463,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.6
-        - 1.0.8
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2-preview
-        - 1.1.2-preview.2
-        - 1.1.3-preview.1
-        - 1.1.4-preview
-        - 1.1.4
-        - 1.2.0-preview
-        - 1.2.1
-        - 2.0.0-preview
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.5
         - 2.0.7
-        - 3.0.1
-        - 3.0.2
-        - 3.0.3
         compatible:
-        - 1.0.2
-        - 1.0.6
-        - 1.0.8
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2-preview
-        - 1.1.2-preview.2
-        - 1.1.3-preview.1
-        - 1.1.4-preview
-        - 1.1.4
-        - 1.2.0-preview
-        - 1.2.1
-        - 2.0.0-preview
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.5
         - 2.0.7
-        - 3.0.1
-        - 3.0.2
-        - 3.0.3
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -634,7 +492,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637334461080000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -647,7 +505,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.5
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -664,28 +522,8 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.4
-        - 1.0.9
-        - 1.0.10
-        - 1.0.11
-        - 2.0.0
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
         - 2.0.5
         compatible:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.4
-        - 1.0.9
-        - 1.0.10
-        - 1.0.11
-        - 2.0.0
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
         - 2.0.5
         verified: 2.0.5
       dependencies: []
@@ -703,7 +541,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637400980850000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -716,7 +554,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -733,28 +571,8 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.7
-        - 1.1.0
-        - 1.1.2
-        - 1.1.3
-        - 1.1.4
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
         - 1.2.3
         compatible:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.7
-        - 1.1.0
-        - 1.1.2
-        - 1.1.3
-        - 1.1.4
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
         - 1.2.3
         verified: 1.2.3
       dependencies: []
@@ -772,20 +590,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637394922300000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+        revision: 547f63839bdc87e0aed2c9e0d84f8f6336a83ea3
         path: 
     - packageId: com.unity.purchasing@2.0.6
       testable: 0
       isDirectDependency: 1
       version: 2.0.6
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.purchasing@2.0.6
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.purchasing@2.0.6
       assetPath: Packages/com.unity.purchasing
       name: com.unity.purchasing
       displayName: In App Purchasing
@@ -821,66 +639,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.3
-        - 0.0.4
-        - 0.0.5
-        - 0.0.6
-        - 0.0.7
-        - 0.0.8
-        - 0.0.9
-        - 0.0.10
-        - 0.0.11
-        - 0.0.12
-        - 0.0.13
-        - 0.0.14
-        - 0.0.15
-        - 0.0.16
-        - 0.0.17
-        - 0.0.18
-        - 0.0.19
-        - 2.0.0
-        - 2.0.1
-        - 2.0.3
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 2.1.1
-        - 2.2.0
         - 2.2.1
-        - 2.2.2
-        - 3.0.0-pre.3
-        - 3.0.0-pre.4
         compatible:
-        - 0.0.3
-        - 0.0.4
-        - 0.0.5
-        - 0.0.6
-        - 0.0.7
-        - 0.0.8
-        - 0.0.9
-        - 0.0.10
-        - 0.0.11
-        - 0.0.12
-        - 0.0.13
-        - 0.0.14
-        - 0.0.15
-        - 0.0.16
-        - 0.0.17
-        - 0.0.18
-        - 0.0.19
-        - 2.0.0
-        - 2.0.1
-        - 2.0.3
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 2.1.1
-        - 2.2.0
         - 2.2.1
-        - 2.2.2
-        - 3.0.0-pre.3
-        - 3.0.0-pre.4
-        verified: 2.2.2
+        verified: 2.2.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -899,7 +661,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636898903830000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -912,7 +674,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.20
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.test-framework@1.1.20
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.test-framework@1.1.20
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -927,37 +689,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.4-preview
-        - 0.0.29-preview
-        - 1.0.0
-        - 1.0.7
-        - 1.0.9
-        - 1.0.11
-        - 1.0.12
-        - 1.0.13
-        - 1.0.14
-        - 1.0.16
-        - 1.0.17
-        - 1.0.18
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2
-        - 1.1.3
-        - 1.1.5
-        - 1.1.8
-        - 1.1.9
-        - 1.1.11
-        - 1.1.13
-        - 1.1.14
-        - 1.1.16
-        - 1.1.18
-        - 1.1.19
         - 1.1.20
-        - 1.1.22
         compatible:
         - 1.1.20
-        - 1.1.22
-        verified: 1.1.22
+        verified: 1.1.20
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -987,12 +722,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637429759710000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: f04391d9987f4a534f886a9638b011d53e5871d8
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
@@ -1000,7 +735,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1035,77 +770,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.2
-        - 1.0.21
-        - 1.0.23
-        - 1.0.25
-        - 1.0.26
-        - 1.1.0
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 1.2.4
-        - 1.3.0-preview
-        - 1.3.0
-        - 1.4.0-preview.1b
-        - 1.4.0-preview.2a
-        - 1.4.0-preview.3a
-        - 1.4.0
-        - 1.4.1-preview.1
-        - 1.4.1
-        - 1.5.0-preview.1
-        - 1.5.0-preview.2
-        - 1.5.0-preview.3
-        - 1.5.0-preview.4
-        - 1.5.0-preview.5
-        - 1.5.0-preview.6
-        - 1.5.0-preview.7
-        - 1.5.0-preview.8
-        - 1.5.0-preview.10
-        - 1.5.0-preview.11
-        - 1.5.0-preview.12
-        - 1.5.0-preview.13
-        - 1.5.0-preview.14
-        - 1.5.0
-        - 1.5.1
-        - 1.5.3
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.1
-        - 2.1.0-preview.1
-        - 2.1.0-preview.2
-        - 2.1.0-preview.3
-        - 2.1.0-preview.4
-        - 2.1.0-preview.5
-        - 2.1.0-preview.7
-        - 2.1.0-preview.8
-        - 2.1.0-preview.10
-        - 2.1.0-preview.11
-        - 2.1.0-preview.12
-        - 2.1.0-preview.13
-        - 2.1.0-preview.14
-        - 2.1.0
-        - 2.1.1
-        - 2.1.3
-        - 3.0.0-preview.1
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.0-preview.5
-        - 3.0.0-preview.7
-        - 3.0.0-preview.8
-        - 3.0.0-preview.10
-        - 3.0.0-preview.11
-        - 3.0.0-preview.12
-        - 3.0.0-preview.13
-        - 3.0.0-preview.14
-        - 3.0.0
         - 3.0.1
-        - 3.0.3
         compatible:
         - 3.0.1
-        - 3.0.3
-        verified: 3.0.3
+        verified: 3.0.1
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -1134,7 +802,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314376320000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -1147,7 +815,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.5
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.timeline@1.4.5
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.timeline@1.4.5
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1180,7 +848,6 @@ m_PackageAssets:
         - 1.2.15
         - 1.2.16
         - 1.2.17
-        - 1.2.18
         - 1.3.0-preview.2
         - 1.3.0-preview.3
         - 1.3.0-preview.5
@@ -1193,7 +860,6 @@ m_PackageAssets:
         - 1.3.4
         - 1.3.5
         - 1.3.6
-        - 1.3.7
         - 1.4.0-preview.1
         - 1.4.0-preview.2
         - 1.4.0-preview.3
@@ -1206,7 +872,6 @@ m_PackageAssets:
         - 1.4.3
         - 1.4.4
         - 1.4.5
-        - 1.4.6
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -1216,8 +881,6 @@ m_PackageAssets:
         - 1.5.1-pre.1
         - 1.5.1-pre.2
         - 1.5.1-pre.3
-        - 1.5.2
-        - 1.6.0-pre.1
         compatible:
         - 1.2.6
         - 1.2.7
@@ -1230,7 +893,6 @@ m_PackageAssets:
         - 1.2.15
         - 1.2.16
         - 1.2.17
-        - 1.2.18
         - 1.3.0-preview.2
         - 1.3.0-preview.3
         - 1.3.0-preview.5
@@ -1243,7 +905,6 @@ m_PackageAssets:
         - 1.3.4
         - 1.3.5
         - 1.3.6
-        - 1.3.7
         - 1.4.0-preview.1
         - 1.4.0-preview.2
         - 1.4.0-preview.3
@@ -1256,7 +917,6 @@ m_PackageAssets:
         - 1.4.3
         - 1.4.4
         - 1.4.5
-        - 1.4.6
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -1266,9 +926,7 @@ m_PackageAssets:
         - 1.5.1-pre.1
         - 1.5.1-pre.2
         - 1.5.1-pre.3
-        - 1.5.2
-        - 1.6.0-pre.1
-        verified: 1.4.6
+        verified: 1.4.5
       dependencies:
       - name: com.unity.modules.director
         version: 1.0.0
@@ -1381,7 +1039,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.1.4
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.4
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.4
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -1401,6 +1059,27 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.0
+        - 1.0.2
+        - 1.0.3
+        - 1.3.1
+        - 1.3.2
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.11
+        - 2.0.1
+        - 2.0.2
+        - 2.0.4
+        - 2.0.6
+        - 2.0.8
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.6
         - 2.1.7
         compatible:
         - 2.1.7
@@ -1425,7 +1104,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637244797630000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3180,7 +2859,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\gibam\Documents\GitHub\Unity\Alvorada - Creator Kit\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\Utilizador\Documents\GitHub\Alvorada\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3196,18 +2875,8 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
-        - 1.0.0
-        - 1.0.5
         - 1.0.6
         compatible:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
-        - 1.0.0
-        - 1.0.5
         - 1.0.6
         verified: 1.0.6
       dependencies: []
@@ -3228,7 +2897,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637429759280000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3238,5 +2907,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Packages
+m_ProjectPath: C:/Users/Utilizador/Documents/GitHub/Alvorada/Packages
 m_EditorVersion: 2020.2.2f1 (068178b99f32)
