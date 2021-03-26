@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4fa6d8a3-d852-79bf-8226-66ed76903064}</ProjectGuid>
+    <ProjectGuid>{e1ba5231-fb5d-7f5f-f236-cf0523c4c7dd}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -88,7 +88,7 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Creator Kit - RPG\Shaders\Cutscene.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
-     <None Include="Assets\CreatorKitRPG_Third-PartyNotice.txt" />
+     <None Include="Assets\readme.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials\mr-pixel\VTF MisterPixel\Velvetyne Black Font Licence.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
@@ -329,13 +329,13 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -683,64 +683,64 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Monetization">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-        <HintPath>C:/Users/gibam/Documents/GitHub/Unity/Alvorada - Creator Kit/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+        <HintPath>C:/Users/gibam/Documents/GitHub/Alvorada/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
