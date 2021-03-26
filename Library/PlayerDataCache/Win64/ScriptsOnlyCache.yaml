@@ -12,6 +12,7 @@ ScriptsOnlyBuild:
     - RPGM.Gameplay.CameraController
     - RPGM.Gameplay.CharacterController2D
     - RPGM.Gameplay.CloudSystem
+    - RPGM.Gameplay.FadingSprite
     - RPGM.Gameplay.FadingSpriteSystem
     - RPGM.Gameplay.FootstepTimer
     - RPGM.Gameplay.GameController
@@ -31,6 +32,7 @@ ScriptsOnlyBuild:
     - UnityEngine.U2D.PixelPerfectCamera
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -132,6 +134,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3640}
     - Class: 114
+      Script: {instanceID: 3688}
+    - Class: 114
       Script: {instanceID: 3696}
     - Class: 114
       Script: {instanceID: 3702}
@@ -178,6 +182,8 @@ ScriptsOnlyBuild:
     - Class: 243
       Script: {instanceID: 0}
     - Class: 245
+      Script: {instanceID: 0}
+    - Class: 331
       Script: {instanceID: 0}
     - Class: 19719996
       Script: {instanceID: 0}
